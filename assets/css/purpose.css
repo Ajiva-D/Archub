@@ -73,6 +73,7 @@ body {
   background-color: #FFF;
 }
 /* Custom Styles Start */
+
 .header-account-page{
 	background-color: #90939f!important;
 }
@@ -97,6 +98,17 @@ padding:0.5rem 1.5rem!important;
 }
 .nav-white{
 	background-color:#ffffff!important;
+}
+
+.my-card-profile .card-profile-image{
+	width: 7rem;
+    height: 7rem;
+    border: 0.1875rem solid #FFF;
+}
+
+.bg-gradient-secondary img{
+	height: 70px;
+	padding-bottom: 20px;
 }
 /* Custom Styles End */
 
