@@ -13477,8 +13477,8 @@ button.bg-white-dark:focus {
 }
 
 .bg-gradient-warning {
-  background: -o-linear-gradient(40deg, #FFAB00 0, #fff800 100%) !important;
-  background: linear-gradient(50deg, #FFAB00 0, #fff800 100%) !important;
+  background: -o-linear-gradient(40deg, #fbbd4c 0, #8f0b07 100%) !important;
+  background: linear-gradient(50deg, #fbbd4c 0, #8f0b07 100%) !important;
 }
 
 .bg-gradient-danger {
