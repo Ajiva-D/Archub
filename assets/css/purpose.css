@@ -82,6 +82,10 @@ body {
 	font-size:3rem;
 }
 
+.blog-btn{
+padding:0.5rem 1.5rem!important;
+}
+
 .my-btn{
 	background-color:#8e0904!important;
 	z-index:25!important;
@@ -90,6 +94,9 @@ body {
 .img-wide{
 	width:100%!important;
 	height:auto!important;
+}
+.nav-white{
+	background-color:#ffffff!important;
 }
 /* Custom Styles End */
 
@@ -2814,8 +2821,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #FFF;
-  background-color: #6e00ff;
-  border-color: #6e00ff;
+  background-color: #8e0904;
+  border-color: #8e0904;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
 }
