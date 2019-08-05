@@ -110,6 +110,8 @@ padding:0.5rem 1.5rem!important;
 	height: 70px;
 	padding-bottom: 20px;
 }
+
+
 /* Custom Styles End */
 
 
@@ -5411,12 +5413,12 @@ a.badge:hover, a.badge:focus {
 }
 
 .badge-primary {
-  color: #FFF;
-  background-color: #6e00ff;
+  color: #8f0805;
+  background-color: #ffd27c;
 }
 a.badge-primary:hover, a.badge-primary:focus {
-  color: #FFF;
-  background-color: #5800cc;
+  color: #8f0805;
+  background-color: #ffd27c;
 }
 a.badge-primary:focus, a.badge-primary.focus {
   outline: 0;
@@ -26264,8 +26266,8 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
   padding: 0.625rem 0.625rem 0.5rem;
   margin: 0.125rem;
   border-radius: 0.25rem;
-  background: #6e00ff;
-  color: #FFF;
+  background-color: #8f0805;
+  color: #ffd27c;
   line-height: 1.5;
   overflow: hidden;
   -webkit-box-shadow: 0 1px 2px rgba(31, 45, 61, 0.25);
