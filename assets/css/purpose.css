@@ -81,7 +81,7 @@ body {
 
 .khula-font{
 	font-family: 'Khula', sans-serif!important;
-	font-size:5rem!important;
+	font-size:3rem!important;
 }
 
 .blog-btn{
@@ -7243,7 +7243,8 @@ button.bg-white:focus {
 }
 
 .rounded-pill {
-  border-radius: 50rem !important;
+	border-radius: 50rem !important;
+	padding:5px 3rem!important;
 }
 
 .rounded-0 {
